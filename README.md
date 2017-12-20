@@ -7,7 +7,7 @@ Everything you need to know to be prepared for the next protest.
 The following is the tentative table of contents for the three current sections of ProtestPack.
 
 1. **What to know**
-  * Your rights
+  * Your rights (per country)
   * Relationship between the government and the protest
   * The objective of the protest
   * The expected path & duration of the protest
@@ -22,6 +22,8 @@ The following is the tentative table of contents for the three current sections 
   * How to protect one's digital devices
   * How to escape
   * What to look for (plainclothes cops, isolated outbreaks of violence, split crowds, etc)
+
+_ProtestPack will also offer an 8.5x11 'condensed' version that can be easily printed, put in one's pocket, and used as a reference._
 
 Alternatively, this outline can be split into three categories: _before, during, after_.
 
