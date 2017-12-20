@@ -24,3 +24,15 @@ The following is the tentative table of contents for the three current sections 
   * What to look for (plainclothes cops, isolated outbreaks of violence, split crowds, etc)
 
 Alternatively, this outline can be split into three categories: _before, during, after_.
+
+## Useful links
+* https://right-to-protest.org/protect-your-protest/
+* http://www.seattleweekly.com/news/so-you-want-to-protest-a-beginners-guide/
+
+## Plan
+* Build collaborator network
+* Decide on know+do vs before+during+after vs unified points.
+* Write verbiage
+* Finalize text and publish
+* Begin translation process
+* Publicize
