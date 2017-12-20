@@ -23,7 +23,7 @@ The following is the tentative table of contents for the three current sections 
   * How to escape
   * What to look for (plainclothes cops, isolated outbreaks of violence, split crowds, etc)
 
-_ProtestPack will also offer an 8.5x11 'condensed' version that can be easily printed, put in one's pocket, and used as a reference._
+_ProtestPack will also offer an 8.5x11 'condensed' version that can be easily printed, put in one's pocket, and used as a reference. A 'know your rights' notecard will also be produced._
 
 Alternatively, this outline can be split into three categories: _before, during, after_.
 
