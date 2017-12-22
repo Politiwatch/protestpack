@@ -14,5 +14,5 @@ _by [Politiwatch](https://politiwatch.org)_
 1. [**What to Bring**](WHAT_TO_BRING.md)
 2. [**How to Deal With Police**](POLICE.md)
 3. [**If Things Go Bad**](EMERGENCY.md)
-4. [**How to Stay Secure**](SECURE.md) — TODO
+4. [**How to Stay Secure**](SECURE.md)
 ...others?

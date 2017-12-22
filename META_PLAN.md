@@ -28,6 +28,7 @@ Alternatively, this outline can be split into three categories: _before, during,
 * https://right-to-protest.org/protect-your-protest/
 * http://www.seattleweekly.com/news/so-you-want-to-protest-a-beginners-guide/
 * https://www.acludc.org/sites/default/files/wysiwyg/aclu_8.5_x_11_trifold_v21.pdf
+* https://ssd.eff.org/en/module/attending-protests-united-states
 
 ## Plan
 * Build collaborator network
