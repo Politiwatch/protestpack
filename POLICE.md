@@ -1,4 +1,5 @@
-# What To Do
+# Police
+How to deal with police.
 
 ## If police approach
 * **Keep your hands visible** — if they can't see your hands, they might think you have a weapon.
