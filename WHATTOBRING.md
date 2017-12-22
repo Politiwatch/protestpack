@@ -1,6 +1,4 @@
 # What to Bring
-Be careful about what you bring to a protest. If you bring too much, you might find your backpack uncomfortable. If you bring too little, you might be underprepared. And if you bring the wrong items, you might be detained by police.
-
 Because every protest is different, there isn't a single list of items that could possibly cover all situations. Still, there are some items that you _must_ have, and others that you might want to bring depending on the protest.
 
 ## Definitely Bring
