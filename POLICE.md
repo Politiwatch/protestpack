@@ -1,7 +1,7 @@
 # Police
 How to deal with police.
 
-## If police approach
+## If approached
 * **Keep your hands visible** — if they can't see your hands, they might think you have a weapon.
 * **No sudden movements** — move slowly and predictably to avoid scaring the officers.
 * **Record the police** — recording the police is legal, and it might keep the situation from escalating.
