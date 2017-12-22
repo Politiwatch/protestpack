@@ -12,6 +12,7 @@ Because every protest is different, there isn't a single list of items that coul
 8. **Smartphone** — a smartphone will allow you to communicate and take video. Make sure that your passcode lock is on, and that you use a secure messenger (we recommend [Signal](https://signal.org)) for communication. Bring an extra battery pack if you can.
 9. **First aid kit** — injuries are bound to happen, and a simple first aid kit could keep you and your fellow protesters safe.
 10. **Personal items** — whether this is sunscreen, tampons, or medications, make sure you have everything you need to survive for at least 48 hours (in case you're arrested).
+11. **Friend** — don't protest alone. Go with a friend so you can look out for each other.
 
 ## Maybe Bring
 1. **Bandana** — a bandana can protect your face from pepper spray.
