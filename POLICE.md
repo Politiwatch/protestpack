@@ -10,11 +10,11 @@ How to deal with police.
 * **Be polite** — yelling will only make the situation worse.
 * **Don't touch the police** — if you touch the officer(s), you may be charged with assault.
 
-## If you're searched
+## If searched
 * **Don't give your consent** — say "I don't consent to this search." Keep in mind that warrantless pat-downs are legal in many areas.
 * **Don't fight back** — if you fight back, you might be charged with assault.
 
-## If you're arrested
+## If arrested
 * **Don't resist arrest** — this will just make your situation worse.
 * **Document everything** — if you go to court, detailed evidence—like video—may help your case.
 * **Don't argue or give excuses** — police misconduct isn't solved on the streets. Stay silent.
